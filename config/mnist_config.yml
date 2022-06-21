@@ -1,0 +1,10 @@
+experiment_name: "MNIST Sample Test"
+
+dataset: "mnist"
+image_shape: (1, 28, 28)
+
+gpus: 1
+cpus: 4
+
+lr: 0.02
+batch_size: 256
